@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/lyndo/Documents/Unreal Projects/Week2_InClassProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Week2_InClassProject/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset"
+			]
+		}
+	]
+}

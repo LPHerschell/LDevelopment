@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab02Assignment/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab02Assignment/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/lyndo/Documents/Unreal Projects/InClassExercise3/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/InClassExercise3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/InClassExercise3/Content/StarterContent/Props/SM_Bush_Blueprint.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/InClassExercise3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/TF/AD9ZRM1X2732YFV438H178.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/InClassExercise3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/OA/BRT45QZF7240NJQZP7672G.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/InClassExercise3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/IE/GIYFGVYU1YCQA432OZVTGE.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/InClassExercise3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/4J/1EBBJ9PASEMJFCTEJDVVU2.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/InClassExercise3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/DC/X5EVTXRBQSF6YR7EPCQA7K.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/InClassExercise3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/LO/DCN32SJH3ZFWEW9K977G0R.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/InClassExercise3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/KV/6OXUUQESCDLES3KQQQG6VI.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/InClassExercise3/Content/StarterContent/Audio/HappyWheelsVictory.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/InClassExercise3/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/InClassExercise3/Content/StarterContent/Props/SM_Chair_Blueprint.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/InClassExercise3/Content/StarterContent/Props/SM_DoorFrame_Blueprint.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/InClassExercise3/Content/StarterContent/Props/SM_Statue_Blueprint.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/InClassExercise3/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/InClassExercise3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/R5/L0KN9R3ZJYHXZ25QBEDPWS.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/StarterContent/Shapes/Division_Cube_Blueprint.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/RS/F53GEEYIL062T8281T7UUO.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/2Z/U7QUGOY84OO8ME714O2EDJ.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/StarterContent/Shapes/Multiply_Cube_Blueprint.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/YN/KUNTEN3TMYFMV0X18MSFBX.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/StarterContent/Shapes/Reset_Cube_Blueprint.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/StarterContent/Shapes/Shape_Cube_Blueprint.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/TY/NXG5EPQ639Z62H6TIHA4H4.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/StarterContent/Shapes/Shape_Cube_Blueprint1.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/SM_ChamferCube_Blueprint.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/SM_GlassWindow_Blueprint.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/XO/GILAYFLHRF3BSF2T46BFWY.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/StarterContent/Shapes/Subtraction_Cube_Blueprint.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/9D/6X4S1UM5L90IYF8ZNOXU45.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab03/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset"
+			]
+		}
+	]
+}

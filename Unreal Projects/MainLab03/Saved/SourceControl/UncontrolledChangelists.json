@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/lyndo/Documents/Unreal Projects/MainLab03/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/MainLab03/Content/StarterContent/Shapes/Subtraction_Decrement_Cube_Blueprint.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/MainLab03/Content/StarterContent/Shapes/Addition_Increment_Cube_Blueprint.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/MainLab03/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/Z2/5R78JXF4Y67L7VMAWXSTIO.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/MainLab03/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/UF/B4QCRE1MU45AZURQA9WGES.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/MainLab03/Content/StarterContent/Shapes/Print_Result_Cube_Blueprint.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/MainLab03/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/KF/9ISA4A9RJCA5TJBSE3TAID.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/MainLab03/Content/StarterContent/Shapes/Toggle_Operator_Cube_Blueprint.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/MainLab03/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/C5/RP10DK0AVJ1ZVOP45MRV23.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/MainLab03/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/MainLab03/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/MainLab03/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/MainLab03/Content/StarterContent/Shapes/Modify_Operands_Blueprint.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/MainLab03/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/JB/LZL2JMETAJ9XIISA3PJ60I.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/MainLab03/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/GT/HHVZ3GQSXPUW64SAUX07UW.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/MainLab03/Content/SM_GlassWindow_Blueprint.uasset"
+			]
+		}
+	]
+}

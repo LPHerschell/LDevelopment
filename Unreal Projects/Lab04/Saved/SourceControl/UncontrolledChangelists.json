@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab04/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab04/Content/FirstPerson/Blueprints/DoorInteract.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab04/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/LP/KVV1LO26VTHCX0X2I2W89H.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab04/Content/FirstPerson/Blueprints/Key.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab04/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/T1/5ITX4YP8RXS0NUSVFOH2H3.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab04/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/lyndo/Documents/Unreal Projects/Lab04/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+			]
+		}
+	]
+}
